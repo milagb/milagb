@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @milagb
-- 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning front and back end.
-- 💞️ I’m looking to collaborate on front end development.
-- 📫 Reach me through my email: camilagbortolotti@gmail.com
+👋 Hi, I’m Camila (@milagb)
+
+💻 Data Analyst with a background in Computer Science, currently working with financial market data.
+📊 I’m interested in Data Science, Machine Learning, and building data-driven solutions with real-world impact.
+🚀 Currently improving my skills in Python, SQL, and predictive modeling.
+📈 Exploring projects related to financial data, investor behavior, and analytics.
+🤝 Open to collaborating on data science projects and analytical challenges.
+
+📫 Reach me at: camilagbortolotti@gmail.com
 
 <!---
 milagb/milagb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
